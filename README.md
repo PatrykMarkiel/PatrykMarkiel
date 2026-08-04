@@ -1,7 +1,5 @@
 <h1>Hi, I'm Patryk</h1>
 
-# About Me
-
 I'm an aspiring developer focused on **C# and .NET**, interested in continuous learning and self-improvement.
 
 ## Currently working on:
