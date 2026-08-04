@@ -136,7 +136,7 @@ mindmap
 
 <td align="center" width="200">
 
-<a href="TWÓJ_LINK_DISCORD" style="text-decoration:none; color:inherit;">
+<a href="https://discord.com/users/bulas8" style="text-decoration:none; color:inherit;">
 <img src="https://skillicons.dev/icons?i=discord" width="60"/>
 <br>
 <b>Discord</b>
