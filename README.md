@@ -21,12 +21,6 @@ I'm an aspiring developer focused on **C# and .NET**, interested in continuous l
 
 </p>
 <p align="center">
-  
-<p align="center">
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PatrykMarkiel&theme=tokyonight&hide_border=true&layout=donut&langs_count=5&hide=Java,LLVM"/>
-
-</p>
 
 </p>
 <p align="center">
