@@ -14,13 +14,6 @@ I'm an aspiring developer focused on **C# and .NET**, interested in continuous l
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PatrykMarkiel&theme=tokyo-night&hide_border=true"/>
 
 </p>
-<p align="center">
-  
-<img src="https://komarev.com/ghpvc/?username=PatrykMarkiel&label=Profile%20Views&style=for-the-badge"/>
-
-</p>
-
-
 ---
 
 # 🧠 My Skills
