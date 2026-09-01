@@ -11,7 +11,7 @@ I'm an aspiring developer focused on **C# and .NET**, interested in continuous l
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PatrykMarkiel&theme=tokyo-night&hide_border=true"/>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PatrykMarkiel&theme=tokyo-night&hide_border=true)
 
 </p>
 
