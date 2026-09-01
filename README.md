@@ -7,14 +7,6 @@ I'm an aspiring developer focused on **C# and .NET**, interested in continuous l
 🎮 **Tales of Rivermoor** — a 2D RPG game created with **MonoGame**
 </p>
 
-# 📊 My Stats
-
-<p align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PatrykMarkiel&theme=tokyo-night&hide_border=true)
-
-</p>
-
 # 🧠 My Skills
 
 <p align="center">
