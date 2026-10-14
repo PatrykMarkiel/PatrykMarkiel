@@ -2,11 +2,6 @@
 
 I'm an aspiring developer focused on **C# and .NET**, interested in continuous learning and self-improvement.
 
-## Currently working on:
-
-🎮 **Tales of Rivermoor** — a 2D RPG game created with **MonoGame**
-</p>
-
 # 🧠 My Skills
 
 <p align="center">
