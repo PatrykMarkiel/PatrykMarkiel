@@ -1,6 +1,6 @@
 <h1>Hi, I'm Patryk</h1>
 
-I'm an aspiring developer focused on **C# and .NET**, interested in continuous learning and self-improvement.
+I'm an aspiring developer focused on **C#** and **.NET**, interested in continuous learning and self-improvement.
 
 # 🧠 My Skills
 
